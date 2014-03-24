@@ -4,6 +4,9 @@
   "role": "system",
   "activities": {
     "pick": {
+      "filters": {
+        "type": ["image/*", "image/jpeg", "image/png"]
+      },
       "href": "/index.html",
       "disposition": "inline",
       "returnValue": true
