@@ -1,0 +1,15 @@
+{
+  "name": "Vespa picker",
+  "launch_path": "/index.html",
+  "role": "system",
+  "activities": {
+    "pick": {
+      "href": "/index.html",
+      "disposition": "inline",
+      "returnValue": true
+    }
+  },
+  "icons": {
+    "60": "/icon/icon_60.png"
+  }
+}
